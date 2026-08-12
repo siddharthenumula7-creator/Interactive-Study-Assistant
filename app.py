@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1S0iSP8qrdyYpfCNBdeztCXWTDD456Dzo
 """
 
-!pip install -q gradio google-genai
 import gradio as gr
 from google import genai
 from google.colab import userdata
